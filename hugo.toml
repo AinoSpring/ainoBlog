@@ -6,6 +6,7 @@ theme = "nightfall"
 author = "Aino Spring"
 user = "info"
 hostname = "aino-spring.com"
+footerHTML = "© 2023 Aino Spring"
 
 readingTime = true  # Show reading time on post page
 published = true  # Show published data on post page
@@ -37,3 +38,4 @@ key = 2
 name = "email"
 url = "mailto:info@aino-spring.com"
 icon = "fa-solid fa-envelope fa-2xl"
+
