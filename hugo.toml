@@ -24,8 +24,16 @@ published = true  # Show published data on post page
 key = 0
 name = "github"
 url = "https://github.com/AinoSpring"
+icon = "fa-brands fa-github fa-2xl"
 
 [[params.social]]
-key = 3
+key = 1
+name = "instagram"
+url = "https://instagram.com/aino.spring"
+icon = "fa-brands fa-instagram fa-2xl"
+
+[[params.social]]
+key = 2
 name = "email"
 url = "mailto:info@aino-spring.com"
+icon = "fa-solid fa-envelope fa-2xl"
