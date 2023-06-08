@@ -10,8 +10,7 @@ I am Aino! You probably never heard this name but yes, it's my real name.
 I am a german software developer. I just write some stuff for fun in my free time.
 I mostly do back-end stuff and currently try some machine-learning and I **love** linux!
 
-As you can see, this site was created using [hugo](https://gohugo.io/) and a 3rd-party [theme](https://github.com/LordMathis/hugo-theme-nightfall),
-so I really hate front-end.
+I really hate front-end development. That's why this site was created using [hugo](https://gohugo.io/) and a 3rd-party 3rd-party [theme](https://github.com/LordMathis/hugo-theme-nightfall).
 
 If you have some interesting projects, make sure to contact me. I would really appreciate to participate.
 
